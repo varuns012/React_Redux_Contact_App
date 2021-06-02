@@ -1,0 +1,22 @@
+.container_header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.heading_title{
+    font-size: 20px;
+    color: dodgerblue;
+}
+
+.contact_btn {
+    color: aliceblue;
+}
+
+.contact_table {
+    padding: 30px 40px;
+}
+
+.edit_icon {
+    margin-right: 20px;
+}
